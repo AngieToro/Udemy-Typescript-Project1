@@ -3,14 +3,14 @@
 ## Project 1
 
 ### This repository is about:
-* Create Projects
-* Project Management: you can move a project from the Active Section to de Finished section and vice-versa 
-- Active Projects
-- Finished projects
+1. Create Projects
+2. Project Management: you can move a project from the Active Section to de Finished section and vice-versa 
+* Active Projects
+* Finished projects
 
 ### Install
 * npm install
 
 ### Execute
-One terminal: npm start
-Other terminal: tsc -w
+* One terminal: npm start
+* Other terminal: tsc -w
