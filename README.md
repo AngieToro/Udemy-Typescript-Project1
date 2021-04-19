@@ -9,8 +9,8 @@
 * Finished projects
 
 ### Install
-* npm install
+`npm install`
 
 ### Execute
-* One terminal: npm start
-* Other terminal: tsc -w
+* One terminal: `npm start`
+* Other terminal: `tsc -w`
