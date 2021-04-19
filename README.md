@@ -12,5 +12,5 @@
 `npm install`
 
 ### Execute
-* One terminal: `npm start`
-* Other terminal: `tsc -w`
+`npm start`
+
